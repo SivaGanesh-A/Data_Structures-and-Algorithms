@@ -7,6 +7,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0004-median-of-two-sorted-arrays) |
+| [0496-next-greater-element-i](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0496-next-greater-element-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -20,6 +21,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0496-next-greater-element-i](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0496-next-greater-element-i) |
 ## String
 |  |
 | ------- |
@@ -33,8 +35,13 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0496-next-greater-element-i) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0020-valid-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
