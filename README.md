@@ -8,6 +8,7 @@
 | [0001-two-sum](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0004-median-of-two-sorted-arrays) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0084-largest-rectangle-in-histogram) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0496-next-greater-element-i](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0739-daily-temperatures) |
 ## Binary Search
@@ -38,6 +39,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0084-largest-rectangle-in-histogram) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0739-daily-temperatures) |
@@ -59,4 +61,8 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0155-min-stack) |
+## Math
+|  |
+| ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0150-evaluate-reverse-polish-notation) |
 <!---LeetCode Topics End-->
