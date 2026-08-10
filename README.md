@@ -47,6 +47,7 @@
 | [0496-next-greater-element-i](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0853-car-fleet) |
+| [0901-online-stock-span](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0901-online-stock-span) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -58,6 +59,7 @@
 | [0496-next-greater-element-i](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0853-car-fleet) |
+| [0901-online-stock-span](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0901-online-stock-span) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -66,6 +68,7 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0155-min-stack) |
+| [0901-online-stock-span](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0901-online-stock-span) |
 ## Math
 |  |
 | ------- |
@@ -78,4 +81,8 @@
 |  |
 | ------- |
 | [0853-car-fleet](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0853-car-fleet) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
