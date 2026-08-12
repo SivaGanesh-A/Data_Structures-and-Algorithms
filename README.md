@@ -12,6 +12,7 @@
 | [0496-next-greater-element-i](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0853-car-fleet) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Binary Search
 |  |
@@ -27,6 +28,7 @@
 | [0001-two-sum](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0496-next-greater-element-i](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0496-next-greater-element-i) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## String
 |  |
@@ -39,6 +41,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Stack
 |  |
 | ------- |
