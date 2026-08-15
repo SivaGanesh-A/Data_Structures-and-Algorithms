@@ -54,6 +54,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0155-min-stack) |
+| [0234-palindrome-linked-list](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0496-next-greater-element-i) |
@@ -91,6 +92,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0394-decode-string) |
 ## Sorting
 |  |
@@ -113,6 +115,7 @@
 | [0141-linked-list-cycle](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0876-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
@@ -120,6 +123,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0160-intersection-of-two-linked-lists) |
+| [0234-palindrome-linked-list](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
