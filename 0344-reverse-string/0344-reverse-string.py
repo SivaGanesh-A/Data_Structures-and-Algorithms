@@ -3,7 +3,19 @@ class Solution:
         """
         Do not return anything, modify s in-place instead.
         """
-        s.reverse()
+        #recursive
+
+        def reverse(left, right):
+            if left >= right:
+                return
+            s[left], s[right] = s[right], s[left]
+            reverse(left + 1, right - 1)
+        reverse(0, len(s) - 1)
+        
+        #s.reverse()
+
+
+
         # n = len(s)
         # l = 0
         # r = n - 1
