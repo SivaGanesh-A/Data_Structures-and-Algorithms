@@ -90,6 +90,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0002-add-two-numbers) |
+| [0070-climbing-stairs](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0509-fibonacci-number](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0509-fibonacci-number) |
 ## Recursion
@@ -145,9 +146,11 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
