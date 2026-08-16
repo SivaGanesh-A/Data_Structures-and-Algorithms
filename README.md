@@ -90,6 +90,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0002-add-two-numbers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0509-fibonacci-number](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
@@ -99,6 +100,7 @@
 | [0206-reverse-linked-list](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0394-decode-string) |
+| [0509-fibonacci-number](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0509-fibonacci-number) |
 ## Sorting
 |  |
 | ------- |
@@ -138,4 +140,12 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0141-linked-list-cycle) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
