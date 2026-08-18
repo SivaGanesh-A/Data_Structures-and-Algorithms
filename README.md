@@ -7,6 +7,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0004-median-of-two-sorted-arrays) |
+| [0046-permutations](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -159,6 +160,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
