@@ -7,6 +7,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0004-median-of-two-sorted-arrays) |
+| [0015-3sum](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0015-3sum) |
 | [0046-permutations](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0084-largest-rectangle-in-histogram) |
@@ -110,6 +111,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0015-3sum) |
 | [0853-car-fleet](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0853-car-fleet) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Data Stream
@@ -136,6 +138,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0143-reorder-list) |
