@@ -44,6 +44,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0344-reverse-string](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0402-remove-k-digits) |
@@ -145,6 +146,7 @@
 | [0015-3sum](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0141-linked-list-cycle](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0160-intersection-of-two-linked-lists) |
@@ -190,4 +192,20 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0104-maximum-depth-of-binary-tree) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
