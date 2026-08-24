@@ -11,6 +11,7 @@
 | [0015-3sum](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0084-largest-rectangle-in-histogram) |
@@ -61,6 +62,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -79,6 +81,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0084-largest-rectangle-in-histogram) |
 | [0402-remove-k-digits](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0496-next-greater-element-i) |
@@ -151,6 +154,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0160-intersection-of-two-linked-lists) |
@@ -164,6 +168,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0509-fibonacci-number) |
 ## Memoization
