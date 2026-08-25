@@ -21,6 +21,7 @@
 | [0853-car-fleet](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0853-car-fleet) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -42,6 +43,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String
 |  |
 | ------- |
