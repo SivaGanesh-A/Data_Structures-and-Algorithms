@@ -66,6 +66,7 @@
 | [0020-valid-parentheses](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0084-largest-rectangle-in-histogram) |
+| [0094-binary-tree-inorder-traversal](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -191,6 +192,7 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -199,6 +201,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -214,6 +217,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0104-maximum-depth-of-binary-tree) |
