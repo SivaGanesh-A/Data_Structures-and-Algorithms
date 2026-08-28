@@ -13,6 +13,7 @@
 | [0035-search-insert-position](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0046-permutations) |
+| [0053-maximum-subarray](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -31,6 +32,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0053-maximum-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -174,6 +176,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0509-fibonacci-number) |
 ## Memoization
