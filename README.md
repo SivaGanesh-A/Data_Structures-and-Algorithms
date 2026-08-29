@@ -207,6 +207,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0543-diameter-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -243,6 +244,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0543-diameter-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0700-search-in-a-binary-search-tree) |
 ## String Matching
 |  |
 | ------- |
@@ -263,4 +265,8 @@
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0543-diameter-of-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
