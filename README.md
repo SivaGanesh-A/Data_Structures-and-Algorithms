@@ -20,6 +20,7 @@
 | [0496-next-greater-element-i](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0853-car-fleet) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -140,6 +141,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0011-container-with-most-water) |
 | [0402-remove-k-digits](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0402-remove-k-digits) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Linked List
 |  |
 | ------- |
