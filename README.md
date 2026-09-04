@@ -22,6 +22,7 @@
 | [0496-next-greater-element-i](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0853-car-fleet) |
+| [0973-k-closest-points-to-origin](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/1046-last-stone-weight) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -40,6 +41,7 @@
 | [0053-maximum-subarray](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0973-k-closest-points-to-origin) |
 ## Hash Table
 |  |
 | ------- |
@@ -122,6 +124,7 @@
 | [0070-climbing-stairs](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0509-fibonacci-number](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0509-fibonacci-number) |
+| [0973-k-closest-points-to-origin](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0973-k-closest-points-to-origin) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3875-construct-uniform-parity-array-i](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/3875-construct-uniform-parity-array-i) |
 ## Recursion
@@ -142,6 +145,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0853-car-fleet](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0853-car-fleet) |
+| [0973-k-closest-points-to-origin](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0973-k-closest-points-to-origin) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Data Stream
 |  |
@@ -299,12 +303,14 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0973-k-closest-points-to-origin](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/1046-last-stone-weight) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0973-k-closest-points-to-origin) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -313,4 +319,12 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0347-top-k-frequent-elements) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
