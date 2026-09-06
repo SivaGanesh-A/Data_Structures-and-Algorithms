@@ -19,6 +19,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0496-next-greater-element-i](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0853-car-fleet) |
@@ -34,6 +35,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0035-search-insert-position) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -144,6 +146,7 @@
 | [0015-3sum](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0015-3sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0853-car-fleet](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0853-car-fleet) |
 | [0973-k-closest-points-to-origin](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0973-k-closest-points-to-origin) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -302,6 +305,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0973-k-closest-points-to-origin](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/1046-last-stone-weight) |
@@ -327,4 +331,8 @@
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0973-k-closest-points-to-origin) |
+## Matrix
+|  |
+| ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
