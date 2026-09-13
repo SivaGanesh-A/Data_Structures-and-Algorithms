@@ -115,6 +115,7 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0155-min-stack) |
+| [0295-find-median-from-data-stream](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0901-online-stock-span) |
 ## Math
@@ -146,6 +147,7 @@
 | ------- |
 | [0015-3sum](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0015-3sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0853-car-fleet](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0853-car-fleet) |
@@ -154,6 +156,7 @@
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0901-online-stock-span) |
 ## Greedy
@@ -188,6 +191,7 @@
 | [0143-reorder-list](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0234-palindrome-linked-list) |
+| [0295-find-median-from-data-stream](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
@@ -305,6 +309,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0703-kth-largest-element-in-a-stream) |
