@@ -25,6 +25,7 @@
 | [0853-car-fleet](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0853-car-fleet) |
 | [0973-k-closest-points-to-origin](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/1046-last-stone-weight) |
+| [1642-furthest-building-you-can-reach](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/1642-furthest-building-you-can-reach) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -165,6 +166,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0011-container-with-most-water) |
 | [0402-remove-k-digits](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0402-remove-k-digits) |
+| [1642-furthest-building-you-can-reach](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/1642-furthest-building-you-can-reach) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Linked List
 |  |
@@ -318,6 +320,7 @@
 | [0703-kth-largest-element-in-a-stream](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0973-k-closest-points-to-origin](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/1046-last-stone-weight) |
+| [1642-furthest-building-you-can-reach](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/1642-furthest-building-you-can-reach) |
 ## Quickselect
 |  |
 | ------- |
