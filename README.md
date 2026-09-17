@@ -21,6 +21,7 @@
 | [0347-top-k-frequent-elements](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0496-next-greater-element-i](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0496-next-greater-element-i) |
+| [0621-task-scheduler](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0621-task-scheduler) |
 | [0739-daily-temperatures](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0853-car-fleet) |
 | [0973-k-closest-points-to-origin](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0973-k-closest-points-to-origin) |
@@ -56,6 +57,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0160-intersection-of-two-linked-lists) |
 | [0347-top-k-frequent-elements](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0496-next-greater-element-i) |
+| [0621-task-scheduler](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0621-task-scheduler) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -153,6 +155,7 @@
 | [0295-find-median-from-data-stream](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0621-task-scheduler](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0621-task-scheduler) |
 | [0853-car-fleet](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0853-car-fleet) |
 | [0973-k-closest-points-to-origin](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0973-k-closest-points-to-origin) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -167,6 +170,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0011-container-with-most-water) |
 | [0402-remove-k-digits](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0402-remove-k-digits) |
+| [0621-task-scheduler](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0621-task-scheduler) |
 | [1642-furthest-building-you-can-reach](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/1642-furthest-building-you-can-reach) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Linked List
@@ -318,6 +322,7 @@
 | [0295-find-median-from-data-stream](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0621-task-scheduler](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0973-k-closest-points-to-origin](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/1046-last-stone-weight) |
@@ -336,6 +341,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0621-task-scheduler) |
 ## Geometry
 |  |
 | ------- |
