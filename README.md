@@ -14,6 +14,7 @@
 | [0042-trapping-rain-water](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -353,6 +354,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0054-spiral-matrix) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Merge Sort
 |  |
@@ -362,4 +364,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0023-merge-k-sorted-lists) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
