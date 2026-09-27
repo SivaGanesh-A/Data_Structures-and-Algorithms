@@ -8,6 +8,7 @@
 | [0001-two-sum](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0035-search-insert-position) |
@@ -69,6 +70,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0006-zigzag-conversion) |
+| [0014-longest-common-prefix](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0344-reverse-string](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0344-reverse-string) |
@@ -370,4 +372,8 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0054-spiral-matrix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
