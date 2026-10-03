@@ -21,6 +21,7 @@
 | [0078-subsets](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0200-number-of-islands](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -267,6 +268,7 @@
 | [0112-path-sum](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
@@ -277,6 +279,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
@@ -365,6 +368,7 @@
 | [0048-rotate-image](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0073-set-matrix-zeroes) |
+| [0200-number-of-islands](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Merge Sort
 |  |
@@ -382,4 +386,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0014-longest-common-prefix) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
