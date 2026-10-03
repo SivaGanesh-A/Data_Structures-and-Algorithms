@@ -30,6 +30,7 @@
 | [0739-daily-temperatures](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0853-car-fleet) |
 | [0973-k-closest-points-to-origin](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0973-k-closest-points-to-origin) |
+| [0994-rotting-oranges](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/1046-last-stone-weight) |
 | [1642-furthest-building-you-can-reach](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/1642-furthest-building-you-can-reach) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -281,6 +282,7 @@
 | [0112-path-sum](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0226-invert-binary-tree) |
+| [0994-rotting-oranges](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0994-rotting-oranges) |
 ## Binary Tree
 |  |
 | ------- |
@@ -370,6 +372,7 @@
 | [0073-set-matrix-zeroes](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0994-rotting-oranges](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0994-rotting-oranges) |
 ## Merge Sort
 |  |
 | ------- |
