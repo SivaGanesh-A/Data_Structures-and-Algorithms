@@ -23,6 +23,12 @@ class Solution:
         #     if res in seen:
         #         return [seen[res], i]
         #     seen[num] = i
+        # seen = {}
+        # for i, num in enumerate(nums):
+        #     res = target - num
+        #     if res in seen:
+        #         return [seen[res], i]
+        #     seen[num] = i
         seen = {}
         for i, num in enumerate(nums):
             res = target - num
