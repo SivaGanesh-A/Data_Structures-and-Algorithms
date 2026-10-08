@@ -81,6 +81,7 @@
 | [0344-reverse-string](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0402-remove-k-digits) |
+| [1021-remove-outermost-parentheses](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/1021-remove-outermost-parentheses) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sliding Window
 |  |
@@ -107,10 +108,12 @@
 | [0739-daily-temperatures](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0853-car-fleet) |
 | [0901-online-stock-span](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0901-online-stock-span) |
+| [1021-remove-outermost-parentheses](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/1021-remove-outermost-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0020-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/1021-remove-outermost-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
