@@ -34,6 +34,7 @@
 | [0973-k-closest-points-to-origin](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/1046-last-stone-weight) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1642-furthest-building-you-can-reach](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/1642-furthest-building-you-can-reach) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -49,6 +50,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0035-search-insert-position) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -179,6 +181,7 @@
 | [0621-task-scheduler](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0621-task-scheduler) |
 | [0853-car-fleet](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0853-car-fleet) |
 | [0973-k-closest-points-to-origin](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0973-k-closest-points-to-origin) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Data Stream
 |  |
@@ -224,6 +227,7 @@
 | [0295-find-median-from-data-stream](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0876-middle-of-the-linked-list) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
