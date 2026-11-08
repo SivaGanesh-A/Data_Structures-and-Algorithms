@@ -34,6 +34,7 @@
 | [0973-k-closest-points-to-origin](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/1046-last-stone-weight) |
+| [1267-count-servers-that-communicate](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1642-furthest-building-you-can-reach](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/1642-furthest-building-you-can-reach) |
 | [1882-process-tasks-using-servers](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/1882-process-tasks-using-servers) |
@@ -290,6 +291,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0733-flood-fill) |
+| [1267-count-servers-that-communicate](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/1267-count-servers-that-communicate) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -303,6 +305,7 @@
 | [0547-number-of-provinces](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0994-rotting-oranges) |
+| [1267-count-servers-that-communicate](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/1267-count-servers-that-communicate) |
 ## Binary Tree
 |  |
 | ------- |
@@ -378,6 +381,7 @@
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0621-task-scheduler) |
+| [1267-count-servers-that-communicate](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/1267-count-servers-that-communicate) |
 ## Geometry
 |  |
 | ------- |
@@ -396,6 +400,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0733-flood-fill](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0994-rotting-oranges) |
+| [1267-count-servers-that-communicate](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/1267-count-servers-that-communicate) |
 ## Merge Sort
 |  |
 | ------- |
@@ -417,6 +422,7 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0547-number-of-provinces) |
+| [1267-count-servers-that-communicate](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/1267-count-servers-that-communicate) |
 ## Enumeration
 |  |
 | ------- |
