@@ -36,6 +36,7 @@
 | [1046-last-stone-weight](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/1046-last-stone-weight) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1642-furthest-building-you-can-reach](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/1642-furthest-building-you-can-reach) |
+| [1882-process-tasks-using-servers](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/1882-process-tasks-using-servers) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -361,6 +362,7 @@
 | [0973-k-closest-points-to-origin](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/1046-last-stone-weight) |
 | [1642-furthest-building-you-can-reach](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/1642-furthest-building-you-can-reach) |
+| [1882-process-tasks-using-servers](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/1882-process-tasks-using-servers) |
 ## Quickselect
 |  |
 | ------- |
