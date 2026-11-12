@@ -42,6 +42,7 @@
 | [2778-sum-of-squares-of-special-elements](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/SivaGanesh-A/Data_Structures-and-Algorithms/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
